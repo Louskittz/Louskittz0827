@@ -16,11 +16,19 @@ body {font-family: "Lato", sans-serif}
 <div class="w3-top">
   <div class="w3-bar w3-black w3-card">
     <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="1121.html" class="w3-bar-item w3-button w3-padding-large">HOME</a>
-    <a href="自我介紹 .html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">自我介紹</a>
-    <a href="未來目標 .html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">未來目標</a>
-    <a href="我的興趣.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">我的興趣</a>
-    <a href="推薦電影.遊戲.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">推薦電影.遊戲</a>
+
+      <button class="w3-padding-large w3-button" title="More">HOME<i class="fa fa-caret-down"></i></button>     
+      <div class="w3-dropdown-content w3-bar-block w3-card-4">
+        <a href="自我介紹 .html" class="w3-bar-item w3-button">首頁</a>
+        <a href="自我介紹 .html" class="w3-bar-item w3-button">自我介紹</a>
+        <a href="未來目標 .html" class="w3-bar-item w3-button">未來目標</a>
+        <a href="我的興趣.html" class="w3-bar-item w3-button">我的興趣</a>
+        <a href="推薦電影.遊戲.html" class="w3-bar-item w3-button">推薦電影.遊戲</a>
+        <a href="推薦遊戲.html" class="w3-bar-item w3-button">遊戲</a>
+        <a href="推薦電影.html" class="w3-bar-item w3-button">電影(目前更新中...)</a>
+        <a href="更新中.html" class="w3-bar-item w3-button">更新中</a>
+      </div>
+
     <div class="w3-dropdown-hover w3-hide-small">
       <button class="w3-padding-large w3-button" title="More">其他 <i class="fa fa-caret-down"></i></button>     
       <div class="w3-dropdown-content w3-bar-block w3-card-4">
