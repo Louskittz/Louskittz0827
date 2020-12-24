@@ -35,6 +35,14 @@ body {font-family: "Lato", sans-serif}
         <a href="推薦遊戲.html" class="w3-bar-item w3-button">遊戲</a>
         <a href="推薦電影.html" class="w3-bar-item w3-button">電影(目前更新中...)</a>
         <a href="更新中.html" class="w3-bar-item w3-button">更新中</a>
+	        <a href="1121.html" class="w3-bar-item w3-button">首頁</a>
+        <a href="自我介紹 .html" class="w3-bar-item w3-button">自我介紹</a>
+        <a href="未來目標 .html" class="w3-bar-item w3-button">未來目標</a>
+        <a href="我的興趣.html" class="w3-bar-item w3-button">我的興趣</a>
+        <a href="推薦電影.遊戲.html" class="w3-bar-item w3-button">推薦電影.遊戲</a>
+        <a href="推薦遊戲.html" class="w3-bar-item w3-button">遊戲</a>
+        <a href="推薦電影.html" class="w3-bar-item w3-button">電影(目前更新中...)</a>
+        <a href="更新中.html" class="w3-bar-item w3-button">更新中</a>
       </div>
     </div>
     <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
